@@ -56,14 +56,14 @@
                             </a>
                         </div>
                         <div class="logo white-logo">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="assets/img/logo.png" style="width:50px;" alt="logo">
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
-
+{{-- fghjgghggg --}}
             <div class="tracer-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
