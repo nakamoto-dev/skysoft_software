@@ -26,15 +26,16 @@
                     <div class="d-table-cell">
                         <div class="container">
                             <div class="banner-item-content">
-                                <span class="sub-title">Who we are?</span>
-                                <h1>We Advice and Implents ideas technologically</h1>
-                                <p>If you have an existing idea or you want us to advice, then you are at home.</p>
-                                <div class="btn-box">Welcome
-                                    <a href="about" class="default-btn"><i class="flaticon-right"></i>About Us<span></span></a>
-                                    <a href="https://www.youtube.com/watch?v=Y5KCDWi7h9o" class="video-btn popup-youtube"><i class="flaticon-google-play"></i> Watch Video</a>
+                                <span class="sub-title">Who Are We?</span>
+                                <h1>Your Trusted Technology Consulting and Engineering Partner</h1>
+                                <p>At Skysoft Technologies, we specialize in creating custom technology solutions, offering ready-to-use products, designing robust engineering frameworks, and providing top-tier consultation services. Our mission is to drive innovation and deliver results that exceed expectations.</p>
+                                <div class="btn-box">
+                                    <a href="about" class="default-btn"><i class="flaticon-right"></i> Learn More About Us<span></span></a>
+                                    <a href="https://www.youtube.com/watch?v=Y5KCDWi7h9o" class="video-btn popup-youtube"><i class="flaticon-google-play"></i> Watch Our Story</a>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
@@ -45,44 +46,49 @@
         <section class="solutions-area pt-100 pb-70">
             <div class="container">
                 <div class="section-title">
-                    <span class="sub-title"><img src="https://templates.envytheme.com/tracer/default/assets/img/star-icon.png" alt="image"> Our Solutions</span>
-                    <h2>We Are Different From Others<span class="overlay"></span></h2>
-                    <p>We are interested to hear and solve your daily proplems with technology. In that alignment, we provide technical advisories thats meant to gear up production and management in your business</p>
+                    <span class="sub-title"><img src="https://templates.envytheme.com/tracer/default/assets/img/star-icon.png" alt="Our Solutions Icon"> Our Solutions</span>
+                    <h2>Innovative Solutions Tailored to Your Needs<span class="overlay"></span></h2>
+                    <p>We are committed to understanding and solving your everyday challenges through technology. Our expert technical advisories are designed to boost productivity and streamline management in your business.</p>
                 </div>
 
+
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                   <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-solutions-box wow animate__animated animate__fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="icon">
                                 <i class="flaticon-rocket"></i>
                             </div>
                             <h3><a href="single-services-2.html">Startup Applications</a></h3>
-                            <p>If you have or seeking an idea to work on in technology we provide a solution that advices properly, implement, and manage the deployed infrastructure.</p>
+                            <p>If you have a tech idea or are looking for one to develop, we provide comprehensive solutions to advise, implement, and manage your deployed infrastructure.</p>
                             <a href="startups" class="view-details-btn">View Details</a>
                         </div>
                     </div>
 
+
                     <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="single-solutions-box wow animate__animated animPOSate__fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
+                        <div class="single-solutions-box wow animate__animated animate__fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                             <div class="icon">
                                 <i class="flaticon-laptop"></i>
                             </div>
                             <h3><a href="single-services-2.html">SaaS Solutions</a></h3>
-                            <p>Saas(SOFTWARE AS A SERVICE) ideally means we provide software solutions to individuals and business entities to run their daily operations.Eg, managament softwares, POS(point of sales) systems, E-commerce among more .</p>
+                            <p>SaaS (Software as a Service) provides software solutions for individuals and businesses to streamline their daily operations. Examples include management software, POS (point of sale) systems, e-commerce platforms, and more.</p>
                             <a href="saas" class="view-details-btn">View Details</a>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-sm-3 offset-md-3">
+
+                   <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-sm-3 offset-md-3">
                         <div class="single-solutions-box wow animate__animated animate__fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="icon">
                                 <i class="flaticon-money"></i>
                             </div>
                             <h3><a href="single-services-2.html">Enterprise Solutions</a></h3>
-                            <p>If you have an idea or running business, we provide solutions starting from marketing,production,management upto security solutions.This could be necessary practices or software and hardware deployments.</p>
+                            <p>Whether you have a business idea or are already running a business, we offer comprehensive solutions ranging from marketing and production to management and security. These solutions include best practices as well as software and hardware deployments tailored to your needs.</p>
                             <a href="enterprise" class="view-details-btn">View Details</a>
                         </div>
                     </div>
+
+
                 </div>
             </div>
         </section>
@@ -113,7 +119,7 @@
                                         <div class="icon">
                                             <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
                                         </div>
-                                        <h3>5 Years</h3>
+                                        <h3>8+ Years</h3>
                                         <p>On the market</p>
                                     </span></li>
 
@@ -121,12 +127,13 @@
                                         <div class="icon">
                                             <img src="https://templates.envytheme.com/tracer/default/assets/img/icon2.png" alt="image">
                                         </div>
-                                        <h3>5+</h3>
+                                        <h3>10+</h3>
                                         <p>Team members</p>
                                     </span></li>
                                 </ul>
-                                <p>We are team with interest to solve daily encountered proplems with technology.</p>
-                                <a href="about" class="default-btn"><i class="flaticon-right"></i>More About Us<span></span></a>
+                              <p>We are a dedicated team passionate about solving everyday challenges with innovative technology solutions.</p>
+                                <a href="about" class="default-btn"><i class="flaticon-right"></i> More About Us<span></span></a>
+
                             </div>
                         </div>
                     </div>
@@ -147,71 +154,77 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                  <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-item-box wow animate__animated animate__fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="icon">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon1.png" alt="image">
+                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon1.png" alt="Software Development Icon">
                             </div>
-                            <h3><a href="services">SOFTWARE DEVELOPMENT AND DEPLOYMENT</a></h3>
-                            <p>Here we develop different software solution to businesses, enterprises upto government. We do development the end product and put it on production.We convert client thoughts and plans to reality in software. We also advice on which services will improve or increase production to different business entities.we provide technical solutions to daily problems faced.</p>
+                            <h3><a href="services">Software Development and Deployment</a></h3>
+                            <p>We develop and deploy software solutions for businesses, enterprises, and government organizations. Our services transform client ideas and plans into reality, providing practical and effective software products. Additionally, we offer expert advice on services to enhance productivity and address daily challenges faced by different business entities.</p>
                             <a href="services" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+
+                   <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-item-box wow animate__animated animate__fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                             <div class="icon">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon2.png" alt="image">
+                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon2.png" alt="Networking and Cloud Infrastructure Icon">
                             </div>
-                            <h3><a href="services">NETWORK DESIGNING AND INSTALLATION</a></h3>
-                            <p>Network design is the practice of planning and designing a communications network. Network design starts with identifying business and technical requirements and continues until just before the network implementation stage (when you actually do the work to deploy and configure what was designed).we design and deploy to different entities like hospital, shools ...</p>
+                            <h3><a href="services">Networking and Cloud Infrastructure</a></h3>
+                            <p>We provide comprehensive networking and cloud infrastructure solutions tailored to meet the needs of businesses and enterprises. Our services include the design, implementation, and management of secure and scalable network systems. We specialize in server setup, Linux administration, and database management to ensure your operations run smoothly. Whether you're looking to establish a robust network, migrate to the cloud, or enhance your current infrastructure, our expert team is here to help.</p>
                             <a href="services" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
                         </div>
                     </div>
+
                     
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-item-box wow animate__animated animate__fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="icon">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon3.png" alt="image">
+                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon3.png" alt="Cyber Security and Pentesting Icon">
                             </div>
-                            <h3><a href="services">CYBER SECURITY SERVICES</a></h3>
-                            <p>Here we advice on security practices for any kind of services offered through online or any technology.we also implement different practices to ensure your business is secured from different vulnarabilities.</p>
-                            <a href="services" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
+                            <h3><a href="cyber-security">Cyber Security and Pentesting</a></h3>
+                            <p>Our cyber security and pentesting services are designed to safeguard your digital assets against cyber threats. We provide comprehensive security assessments and penetration testing to identify vulnerabilities in your systems and networks. Additionally, we specialize in designing and implementing security systems such as smart gaming systems, smart CCTV systems, and integrated infrastructure solutions. Our team of experts offers tailored solutions to mitigate risks and ensure the integrity and confidentiality of your data.</p>
+                            <a href="cyber-security" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
                         </div>
                     </div>
+
                     
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-item-box wow animate__animated animate__fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div class="icon">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon4.png" alt="image">
+                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon4.png" alt="Innovation Consultancy & Digital Agency Icon">
                             </div>
-                            <h3><a href="services">INNOVATION CONSULTANCY & DIGITAL AGENCY</a></h3>
-                            <p>Innovation consulting is the process of discovering new methods of creating value for customers and growth opportunities for companies. Businesses typically hire innovation consultants to perform research, review current data and offer new perspectives on current processes.</p>
-                            <a href="services" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
+                            <h3><a href="innovation-consultancy">Innovation Consultancy & Digital Agency</a></h3>
+                            <p>Innovation consulting is the process of discovering new methods of creating value for customers and growth opportunities for companies. Our digital agency provides comprehensive research, data analysis, and innovative strategies to help businesses thrive in the digital landscape. We offer tailored solutions to address your specific needs and drive sustainable growth for your organization.</p>
+                            <a href="innovation-consultancy" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
                         </div>
                     </div>
+
                     
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-item-box wow animate__animated animate__fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
                             <div class="icon">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon5.png" alt="image">
+                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon5.png" alt="Agile Software Deployment Icon">
                             </div>
-                            <h3><a href="services">AGILE SOFTWARE DEPLOYMENT</a></h3>
-                            <p>Agile Development enables organizations to react to frequent change. It's a system that allows companies to be nimble when their business environment is undergoing constant change. Agile Development enables organizations to react to frequent change.In simple terms adding new features to an existing software.</p>
-                            <a href="services" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
+                            <h3><a href="agile-software-deployment">Agile Software Deployment</a></h3>
+                            <p>Agile Development enables organizations to react to frequent change. It's a system that allows companies to be nimble when their business environment is undergoing constant change. Agile Development enables organizations to react to frequent change. In simple terms, it involves adding new features to existing software.</p>
+                            <a href="agile-software-deployment" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
                         </div>
                     </div>
+
                     
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-item-box wow animate__animated animate__fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                             <div class="icon">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon6.png" alt="image">
+                                <img src="https://templates.envytheme.com/tracer/default/assets/img/services/icon6.png" alt="Quality Assurance Services & Quality Analysis Icon">
                             </div>
-                            <h3><a href="services">QUALITY ASSURANCE SERVICES</a></h3>
-                            <p>Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products. Quality Assurance is popularly known as QA Testing.</p>
-                            <a href="services" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
+                            <h3><a href="quality-assurance-services">Quality Assurance Services & Quality Analysis</a></h3>
+                            <p>Quality assurance focuses on improving the software development process and making it efficient and effective as per the quality standards defined for software products. Quality Assurance is popularly known as QA Testing.</p>
+                            <a href="quality-assurance-services" class="read-more-btn">Read More <i class="flaticon-right"></i></a>
                         </div>
                     </div>
+
                 </div>
             </div>
         </section>
@@ -328,93 +341,7 @@
         <!-- End Projects Area -->
 
         <!-- Start Scientist Area -->
-        <section class="scientist-area pt-100 pb-70">
-            <div class="container">
-                <div class="section-title">
-                    <span class="sub-title"><img src="https://templates.envytheme.com/tracer/default/assets/img/star-icon.png" alt="image"> Team Members</span>
-                    <h2>Our Data Scientist<span class="overlay"></span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="single-scientist-item-box wow animate__animated animate__fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <div class="image">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/scientist/img12.jpg" alt="image">
-
-                                <ul class="social">
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-facebook'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="content">
-                                <h3>Merv Adrian</h3>
-                                <span>Data Management</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="single-scientist-item-box wow animate__animated animate__fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                            <div class="image">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/scientist/img13.jpg" alt="image">
-
-                                <ul class="social">
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-facebook'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="content">
-                                <h3>Kirk Borne</h3>
-                                <span>Data Scientist</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="single-scientist-item-box wow animate__animated animate__fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <div class="image">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/scientist/img14.jpg" alt="image">
-
-                                <ul class="social">
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-facebook'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="content">
-                                <h3>Carla Gentry</h3>
-                                <span>Analytical Solutions</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="single-scientist-item-box wow animate__animated animate__fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <div class="image">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/scientist/img15.jpg" alt="image">
-
-                                <ul class="social">
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-facebook'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-instagram'></i></a></li>
-                                    <li><a href="#" class="d-block" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="content">
-                                <h3>Marie Curie</h3>
-                                <span>Data Scientist</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+    
         <!-- End Scientist Area -->
 
       @endsection

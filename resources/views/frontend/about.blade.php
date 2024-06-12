@@ -35,47 +35,53 @@
                     <div class="col-lg-6 col-md-12">
                         <div class="about-content">
                             <div class="content">
-                                <span class="sub-title"><img src="https://templates.envytheme.com/tracer/default/assets/img/star-icon.png" alt="image"> About Us</span>
-                                <h2>Drive Digital Revolution Through Data Science</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <span class="sub-title">
+                                    <img src="https://templates.envytheme.com/tracer/default/assets/img/star-icon.png" alt="image"> About Us
+                                </span>
+                                <h2>Drive Digital Revolution Through Our Services</h2>
+                                <p>At Skyoft Technologies, we are committed to driving the digital revolution through our innovative services. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                 <ul class="features-list">
-                                    <li><span>
-                                        <div class="icon">
-                                            <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
-                                        </div>
-                                        <h3>10 Years</h3>
-                                        <p>On the market</p>
-                                    </span></li>
-
-                                    <li><span>
-                                        <div class="icon">
-                                            <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
-                                        </div>
-                                        <h3>45+</h3>
-                                        <p>Team members</p>
-                                    </span></li>
-
-                                    <li><span>
-                                        <div class="icon">
-                                            <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
-                                        </div>
-                                        <h3>100%</h3>
-                                        <p>Satisfaction rate</p>
-                                    </span></li>
-
-                                    <li><span>
-                                        <div class="icon">
-                                            <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
-                                        </div>
-                                        <h3>80%</h3>
-                                        <p>Senior scientist</p>
-                                    </span></li>
+                                    <li>
+                                        <span>
+                                            <div class="icon">
+                                                <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
+                                            </div>
+                                            <h3>10 Years</h3>
+                                            <p>On the market</p>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <div class="icon">
+                                                <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
+                                            </div>
+                                            <h3>45+</h3>
+                                            <p>Team members</p>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <div class="icon">
+                                                <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
+                                            </div>
+                                            <h3>100%</h3>
+                                            <p>Satisfaction rate</p>
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <span>
+                                            <div class="icon">
+                                                <img src="https://templates.envytheme.com/tracer/default/assets/img/icon1.png" alt="image">
+                                            </div>
+                                            <h3>80%</h3>
+                                            <p>Senior sci</p>
+                                        </span>
+                                    </li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                                <p>Driving digital revolution through innovative services, empowering businesses to thrive in the ever-evolving landscape.</p>
                             </div>
                         </div>
                     </div>
-                </div>
 
                 <div class="about-inner-area">
                     <div class="row">

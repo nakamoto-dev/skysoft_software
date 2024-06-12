@@ -136,60 +136,7 @@
         <!-- End Navbar Area -->
      @yield('content')
 
-        <!-- Start Testimonials Area -->
-        <section class="testimonials-area pt-100 pb-70 bg-f1f8fb">
-            <div class="container">
-                <div class="section-title">
-                    <span class="sub-title"><img src="https://templates.envytheme.com/tracer/default/assets/img/star-icon.png" alt="image"> Testimonials</span>
-                    <h2>What Our Clients are Saying?<span class="overlay"></span></h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                </div>
-
-                <div class="testimonials-slides owl-carousel owl-theme">
-                    <div class="single-testimonials-item">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                        <div class="client-info">
-                            <div class="d-flex justify-content-center align-items-center">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/testimonials/img1.jpg" alt="image">
-                                <div class="title">
-                                    <h3>Alex Maxwell</h3>
-                                    <span>CEO at EnvyTheme</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="single-testimonials-item">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                        <div class="client-info">
-                            <div class="d-flex justify-content-center align-items-center">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/testimonials/img2.jpg" alt="image">
-                                <div class="title">
-                                    <h3>David Warner</h3>
-                                    <span>CEO at Envato</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="single-testimonials-item">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                        <div class="client-info">
-                            <div class="d-flex justify-content-center align-items-center">
-                                <img src="https://templates.envytheme.com/tracer/default/assets/img/testimonials/img3.jpg" alt="image">
-                                <div class="title">
-                                    <h3>Sarah Taylor</h3>
-                                    <span>CEO at ThemeForest</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="shape-img1"><img src="https://templates.envytheme.com/tracer/default/assets/img/shape/shape1.svg" alt="image"></div>
-        </section>
-        <!-- End Testimonials Area -->
+  
 
         <!-- Start Partner Area -->
         <div class="partner-area pb-100 bg-f1f8fb">
@@ -197,39 +144,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-2 col-6 col-sm-4 col-md-4">
                         <div class="single-partner-item wow animate__animated animate__fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <img src="https://templates.envytheme.com/tracer/default/assets/img/partner/img1.png" alt="image">
+                            <img src="{{env('APP_ASSETS_URL')}}/assets/img/partners/tana.png" alt="image">
                         </div>
                     </div>
 
-                    <div class="col-lg-2 col-6 col-sm-4 col-md-4">
-                        <div class="single-partner-item wow animate__animated animate__fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                            <img src="https://templates.envytheme.com/tracer/default/assets/img/partner/img2.png" alt="image">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-2 col-6 col-sm-4 col-md-4">
-                        <div class="single-partner-item wow animate__animated animate__fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <img src="https://templates.envytheme.com/tracer/default/assets/img/partner/img3.png" alt="image">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-2 col-6 col-sm-4 col-md-4">
-                        <div class="single-partner-item wow animate__animated animate__fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <img src="https://templates.envytheme.com/tracer/default/assets/img/partner/img4.png" alt="image">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-2 col-6 col-sm-4 col-md-4">
-                        <div class="single-partner-item wow animate__animated animate__fadeInUp" data-wow-delay="100ms" data-wow-duration="1500ms">
-                            <img src="https://templates.envytheme.com/tracer/default/assets/img/partner/img5.png" alt="image">
-                        </div>
-                    </div>
-
-                    <div class="col-lg-2 col-6 col-sm-4 col-md-4">
-                        <div class="single-partner-item wow animate__animated animate__fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <img src="https://templates.envytheme.com/tracer/default/assets/img/partner/img6.png" alt="image">
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
 
@@ -305,10 +224,10 @@
                         <div class="single-footer-widget">
                             <h3>Address</h3>
                             <ul class="footer-contact-info">
-                                <li><i class='bx bx-map'></i>Kianjai, Meru county Kenya, along Meru Maua highway </li>
-                                <li><i class='bx bx-phone-call'></i><a href="tel:+254769265559">+254 769 265 559</a></li>
-                                <li><i class='bx bx-envelope'></i><a href="mailto:info@skysoft.co.ke"><span class="__cf_email__">info@skysoft.co.ke</span></a></li>
-                                <li><i class='bx bxs-inbox'></i><a href="tel:+254708181635">+254708 181 635</a></li>
+                                <li><i class='bx bx-map'></i>Ruaka, Nairobi county Kenya, Ruaka Town </li>
+                                <li><i class='bx bx-phone-call'></i><a href="tel:+254751751681">+254 751 751 681</a></li>
+                                <li><i class='bx bx-envelope'></i><a href="info@skysofttechnology.com"><span class="__cf_email__">info@skysofttechnology.com</span></a></li>
+                                <li><i class='bx bxs-inbox'></i><a href="tel:+254751751681">+254751751681</a></li>
                             </ul>
                         </div>
                     </div>
@@ -329,13 +248,13 @@
                     </div>
                 </div>
             </div>
-{{-- https://templates.envytheme.com/tracer/default/https://templates.envytheme.com/tracer/default/assets/img/ --}}
-            <div class="footer-map"><img src="https://templates.envytheme.com/tracer/default/assets/img/footer-map.png" alt="image"></div>
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d255282.39753362627!2d36.885189!3d-1.3024769!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e331be47ad1efd%3A0x4aad74000212d3c3!2sskysoft%20technology!5e0!3m2!1sen!2ske!4v1718194691364!5m2!1sen!2ske" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </footer>
         <!-- End Footer Area -->
 
         <div class="go-top"><i class="flaticon-up"></i></div>
-
+        <script src="https://widget.trustmary.com/dkrzaKy9L"></script>
         <!-- Links of JS files -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
