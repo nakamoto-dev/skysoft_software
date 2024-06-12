@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\frontEnd;
 use App\Http\Controllers\backEnd;
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -31,4 +32,5 @@ Route::get('/services',[frontEnd::class,'services']);
 Route::get('/works',[frontEnd::class,'works']);
 Route::get('/technology',[frontEnd::class,'technology']);
 Route::get('/contact',[frontEnd::class,'contact']);
+Route::get('/products',[frontEnd::class,'products']);
 

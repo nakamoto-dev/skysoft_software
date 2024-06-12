@@ -77,27 +77,31 @@
                         <div class="collapse navbar-collapse mean-menu">
                             <ul class="navbar-nav">
                                 <li class="nav-item"><a href="/" class="nav-link active">Home </a>
-                                
+
                                 </li>
 
                                 <li class="nav-item"><a href="about" class="nav-link">About Us</a>
-                                  
+
                                 </li>
 
                                 <li class="nav-item"><a href="services" class="nav-link">Services </a>
-                                   
+
                                 </li>
 
                                 <li class="nav-item"><a href="works" class="nav-link">Our Works </a>
-                                 
+
                                 </li>
 
                                 <li class="nav-item"><a href="technology" class="nav-link">Technology </a>
-                                   
+
                                 </li>
 
                                 <li class="nav-item"><a href="contact" class="nav-link">Contact Us </a>
-                                    
+
+                                </li>
+
+                                <li class="nav-item"><a href="products" class="nav-link">Products</a>
+
                                 </li>
                             </ul>
 
@@ -120,7 +124,7 @@
                             <div class="circle circle-three"></div>
                         </div>
                     </div>
-                    
+
                     <div class="container">
                         <div class="option-inner">
                             <div class="others-option">
@@ -136,7 +140,7 @@
         <!-- End Navbar Area -->
      @yield('content')
 
-  
+
 
         <!-- Start Partner Area -->
         <div class="partner-area pb-100 bg-f1f8fb">
@@ -148,7 +152,7 @@
                         </div>
                     </div>
 
-                    
+
                 </div>
             </div>
 
@@ -218,7 +222,7 @@
                         </div>
                     </div>
 
-                  
+
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
