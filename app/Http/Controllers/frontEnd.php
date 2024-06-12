@@ -8,7 +8,7 @@ class frontEnd extends Controller
 {
     public function home(){
         //dd('mumeniita');
-    
+
         return view('frontend.welcome');
     }
     public function about(){
@@ -31,6 +31,11 @@ class frontEnd extends Controller
         //dd('mumeniita');
         return view('frontend.works');
     }
+    public function products(){
+        //dd('mumeniita');
+        return view('frontend.products');
+    }
 
-   
+
+
 }
